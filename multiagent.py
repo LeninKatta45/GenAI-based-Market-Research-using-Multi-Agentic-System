@@ -64,7 +64,7 @@ industry_research_agent = Agent(
 
 task1 = Task(
     description="Analyze the financial performance of {topic}, focusing on operational areas like supply chain and customer service for {topic}.",
-    expected_output="A detailed financial report including key financial trends with structured summary and also give its competitor financial report",
+    expected_output="A detailed financial report of {topic} including key financial trends with structured summary and also give its competitor financial report",
     output_file="industry_research_output.txt",
     agent=industry_research_agent,
 )
