@@ -1,0 +1,35 @@
+Here is the list of usecases and dataset links for each usecase with brief descriptions of each usecase relevant to SpaceX:
+
+**Supply Chain:**
+
+1. **Demand Forecasting**: Objective: To accurately predict demand for SpaceX's products and services. Application: GenAI can analyze historical data, market trends, and external factors to generate accurate demand forecasts. Benefit: Improved inventory management, reduced stockouts, and increased revenue.
+Dataset: Demand Forecasting Dataset - https://www.kaggle.com/erogluegemen/demand-forecasting-dataset
+
+2. **Supply Chain Optimization**: Objective: To optimize SpaceX's supply chain operations. Application: GenAI can analyze data from various sources to identify inefficiencies and generate optimized supply chain plans. Benefit: Reduced costs, improved delivery times, and increased customer satisfaction.
+Dataset: Supply Chain Data - https://www.kaggle.com/laurinbrechter/supply-chain-data
+
+3. **Inventory Management**: Objective: To optimize inventory levels and reduce stockouts. Application: GenAI can analyze demand forecasts, lead times, and inventory levels to generate optimized inventory management plans. Benefit: Reduced stockouts, improved inventory turnover, and increased revenue.
+Dataset: Retail Demand Forecasting Dataset - https://www.kaggle.com/rishavdash/retail-demand-forecasting-dataset
+
+4. **Predictive Maintenance**: Objective: To predict and prevent equipment failures. Application: GenAI can analyze sensor data, maintenance records, and other data to generate predictive maintenance schedules. Benefit: Reduced downtime, improved equipment reliability, and increased productivity.
+Dataset: Predictive Maintenance Dataset - https://www.kaggle.com/datasets/hiimanshuagarwal/predictive-maintenance-dataset
+
+5. **Quality Control**: Objective: To improve the quality of SpaceX's products and services. Application: GenAI can analyze data from various sources to identify quality control issues and generate recommendations for improvement. Benefit: Improved product quality, reduced defects, and increased customer satisfaction.
+Dataset: Not found
+
+**Customer Service:**
+
+1. **Chatbots**: Objective: To provide 24/7 customer support. Application: GenAI can generate chatbot responses to common customer queries, freeing up human agents to focus on complex issues. Benefit: Improved customer satisfaction, reduced response times, and increased productivity.
+Dataset: Not found
+
+2. **Sentiment Analysis**: Objective: To analyze customer sentiment and identify areas for improvement. Application: GenAI can analyze customer feedback, social media posts, and other data to generate sentiment analysis reports. Benefit: Improved customer satisfaction, increased loyalty, and competitive advantage.
+Dataset: Not found
+
+3. **Virtual Customer Assistants**: Objective: To provide personalized customer support. Application: GenAI can generate virtual customer assistants that can understand customer queries and provide personalized responses. Benefit: Improved customer satisfaction, increased loyalty, and competitive advantage.
+Dataset: Not found
+
+4. **Content Generation**: Objective: To generate high-quality content for customer support. Application: GenAI can generate content such as FAQs, knowledge base articles, and chatbot responses. Benefit: Improved customer satisfaction, reduced support queries, and increased productivity.
+Dataset: Not found
+
+5. **Call Summarization**: Objective: To summarize customer calls and identify areas for improvement. Application: GenAI can analyze call recordings and generate summaries of customer interactions. Benefit: Improved customer satisfaction, increased loyalty, and competitive advantage.
+Dataset: Not found

@@ -1,0 +1,6 @@
+pylint
+black
+streamlit
+crewai
+kaggle
+ipython
