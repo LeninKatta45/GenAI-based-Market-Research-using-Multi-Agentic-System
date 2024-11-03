@@ -1,35 +1,91 @@
-Here is the list of usecases and dataset links for each usecase with brief descriptions of each usecase relevant to SpaceX:
+Here is the list of use cases and dataset links for each use case with brief descriptions of each use case relevant to SpaceX:
 
-**Supply Chain:**
+1. **Predictive Maintenance**: 
+Objective: To predict and prevent equipment failures in space missions.
+Application: GenAI can analyze sensor data from spacecraft and satellites to identify potential issues before they occur.
+Benefit: Reduced downtime, increased efficiency, and improved safety.
+Datasets:
+Machine Predictive Maintenance Classification - https://www.kaggle.com/shivamb/machine-predictive-maintenance-classification
+Microsoft Azure Predictive Maintenance - https://www.kaggle.com/arnabbiswas1/microsoft-azure-predictive-maintenance
+Predictive Maintenance Dataset (AI4I 2020) - https://www.kaggle.com/stephanmatzka/predictive-maintenance-dataset-ai4i-2020
+Preventive to Predictive Maintenance - https://www.kaggle.com/prognosticshse/preventive-to-predicitve-maintenance
+Predictive Maintenance Dataset - https://www.kaggle.com/hiimanshuagarwal/predictive-maintenance-dataset
+Elevator Predictive Maintenance Dataset - https://www.kaggle.com/shivamb/elevator-predictive-maintenance-dataset
+NASA Bearing Dataset - https://www.kaggle.com/vinayak123tyagi/bearing-dataset
+pump_sensor_data - https://www.kaggle.com/nphantawee/pump-sensor-data
+Dataset for Predictive Maintenance - https://www.kaggle.com/nafisur/dataset-for-predictive-maintenance
+Predictive Maintenance Of Hydraulics System - https://www.kaggle.com/mayank1897/condition-monitoring-of-hydraulic-systems
+Machine Failure Prediction using Sensor data - https://www.kaggle.com/umerrtx/machine-failure-prediction-using-sensor-data
+Predictive Maintenance: Naval Vessel Condition - https://www.kaggle.com/thedevastator/improving-naval-vessel-condition-through-machine
+Predictive Maintenance: Aircraft Engine - https://www.kaggle.com/mhadani/predictive-maintenance-aircraft-engine
+Predictive Maintenance aircraft data  - https://www.kaggle.com/maternusherold/pred-maintanance-data
+Versatile Production System - https://www.kaggle.com/inIT-OWL/versatileproductionsystem
+Automotive Vehicles Engine Health Dataset - https://www.kaggle.com/parvmodi/automotive-vehicles-engine-health-dataset
+Turbofan Predictive Maintenance (Nasa) - https://www.kaggle.com/darkside92/turbofan-predictive-maintenance-nasa
+xinjiang(Predictive Maintenance) - https://www.kaggle.com/yuansaijie0604/xinjiang-pm
+NASA Milling Dataset  - https://www.kaggle.com/vinayak123tyagi/milling-data-set-prognostic-data
+Predictive Maintenance Dataset - https://www.kaggle.com/abdelazizsami/predictive-maintenance-dataset
 
-1. **Demand Forecasting**: Objective: To accurately predict demand for SpaceX's products and services. Application: GenAI can analyze historical data, market trends, and external factors to generate accurate demand forecasts. Benefit: Improved inventory management, reduced stockouts, and increased revenue.
-Dataset: Demand Forecasting Dataset - https://www.kaggle.com/erogluegemen/demand-forecasting-dataset
+2. **Route Optimization**: 
+Objective: To optimize routes for space hardware to move or maneuver in orbit.
+Application: GenAI models can develop efficient routes to maximize fuel efficiency and reduce mission time.
+Benefit: Cost savings, increased mission success, and reduced environmental impact.
+Datasets:
+Large-Scale Route Optimization - https://www.kaggle.com/datasets/mexwell/large-scale-route-optimization
+Shipping Routes and Cost Analysis/Optimization | Kaggle - https://www.kaggle.com/code/enjegodinez/shipping-routes-and-cost-analysis-optimization
+Vehicle routing and scheduling problems - https://archive.ics.uci.edu/dataset/546/vehicle+routing+and+scheduling+problems
+Route Optimization & Planning Software | Route Analysis - Esri - https://www.esri.com/en-us/industries/logistics-distribution/strategies/route-planning-optimization
+austinlasseter/datasets-shipping-logistics: A repository of ... - GitHub - https://github.com/austinlasseter/datasets-shipping-logistics
+vlazovskiy/route-optimizer-machine-learning - GitHub - https://github.com/vlazovskiy/route-optimizer-machine-learning
+Route Optimization API Overview - Google for Developers - https://developers.google.com/maps/documentation/route-optimization/overview
+Route Optimization Algorithm and Big Data - GSM Tasks - https://gsmtasks.com/gsm-route-optimization-algorithm-and-big-data/
+2021 Amazon Last Mile Routing Research Challenge Dataset - https://registry.opendata.aws/amazon-last-mile-challenges/
+Creating Datasets for Generating Routes - Salesforce Help - https://help.salesforce.com/s/articleView?id=sf.salesforce_maps_adv_visitplan_datasets_create.htm&language=en_US&type=5
 
-2. **Supply Chain Optimization**: Objective: To optimize SpaceX's supply chain operations. Application: GenAI can analyze data from various sources to identify inefficiencies and generate optimized supply chain plans. Benefit: Reduced costs, improved delivery times, and increased customer satisfaction.
-Dataset: Supply Chain Data - https://www.kaggle.com/laurinbrechter/supply-chain-data
+3. **Autonomous Decision-Making**: 
+Objective: To enable autonomous decision-making in space missions.
+Application: AI and GenAI can analyze data in real-time to make decisions without human intervention.
+Benefit: Faster response times, increased accuracy, and improved safety.
+Datasets: Not found
 
-3. **Inventory Management**: Objective: To optimize inventory levels and reduce stockouts. Application: GenAI can analyze demand forecasts, lead times, and inventory levels to generate optimized inventory management plans. Benefit: Reduced stockouts, improved inventory turnover, and increased revenue.
-Dataset: Retail Demand Forecasting Dataset - https://www.kaggle.com/rishavdash/retail-demand-forecasting-dataset
+4. **Space Debris Control**: 
+Objective: To reduce space debris in Earth's orbit.
+Application: GenAI can simulate testing scenarios to identify potential collisions and develop strategies to prevent them.
+Benefit: Reduced risk of collisions, improved safety, and reduced environmental impact.
+Datasets: Not found
 
-4. **Predictive Maintenance**: Objective: To predict and prevent equipment failures. Application: GenAI can analyze sensor data, maintenance records, and other data to generate predictive maintenance schedules. Benefit: Reduced downtime, improved equipment reliability, and increased productivity.
-Dataset: Predictive Maintenance Dataset - https://www.kaggle.com/datasets/hiimanshuagarwal/predictive-maintenance-dataset
+5. **Satellite Maintenance**: 
+Objective: To improve satellite maintenance and reduce downtime.
+Application: AI and GenAI can analyze sensor data to identify potential issues and schedule maintenance accordingly.
+Benefit: Reduced downtime, increased efficiency, and improved safety.
+Datasets: Not found
 
-5. **Quality Control**: Objective: To improve the quality of SpaceX's products and services. Application: GenAI can analyze data from various sources to identify quality control issues and generate recommendations for improvement. Benefit: Improved product quality, reduced defects, and increased customer satisfaction.
-Dataset: Not found
+6. **Mission Planning**: 
+Objective: To optimize mission planning and reduce mission time.
+Application: GenAI can analyze data to identify the most efficient routes and schedules for space missions.
+Benefit: Cost savings, increased mission success, and reduced environmental impact.
+Datasets: Not found
 
-**Customer Service:**
+7. **Quality Control**: 
+Objective: To improve quality control in space manufacturing.
+Application: GenAI can analyze data to identify potential defects and develop strategies to improve quality.
+Benefit: Reduced defects, increased efficiency, and improved safety.
+Datasets: Not found
 
-1. **Chatbots**: Objective: To provide 24/7 customer support. Application: GenAI can generate chatbot responses to common customer queries, freeing up human agents to focus on complex issues. Benefit: Improved customer satisfaction, reduced response times, and increased productivity.
-Dataset: Not found
+8. **Customer Service**: 
+Objective: To improve customer service in space-related industries.
+Application: AI and GenAI can analyze customer data to provide personalized support and improve customer satisfaction.
+Benefit: Improved customer satisfaction, increased loyalty, and reduced churn rate.
+Datasets: Not found
 
-2. **Sentiment Analysis**: Objective: To analyze customer sentiment and identify areas for improvement. Application: GenAI can analyze customer feedback, social media posts, and other data to generate sentiment analysis reports. Benefit: Improved customer satisfaction, increased loyalty, and competitive advantage.
-Dataset: Not found
+9. **Manufacturing Process Optimization**: 
+Objective: To optimize manufacturing processes in space-related industries.
+Application: GenAI can analyze data to identify areas of improvement and develop strategies to increase efficiency.
+Benefit: Reduced costs, increased efficiency, and improved quality.
+Datasets: Not found
 
-3. **Virtual Customer Assistants**: Objective: To provide personalized customer support. Application: GenAI can generate virtual customer assistants that can understand customer queries and provide personalized responses. Benefit: Improved customer satisfaction, increased loyalty, and competitive advantage.
-Dataset: Not found
-
-4. **Content Generation**: Objective: To generate high-quality content for customer support. Application: GenAI can generate content such as FAQs, knowledge base articles, and chatbot responses. Benefit: Improved customer satisfaction, reduced support queries, and increased productivity.
-Dataset: Not found
-
-5. **Call Summarization**: Objective: To summarize customer calls and identify areas for improvement. Application: GenAI can analyze call recordings and generate summaries of customer interactions. Benefit: Improved customer satisfaction, increased loyalty, and competitive advantage.
-Dataset: Not found
+10. **Edge Computing**: 
+Objective: To provide advanced AI edge computing capabilities in space.
+Application: GenAI can analyze data in real-time to make decisions without human intervention.
+Benefit: Faster response times, increased accuracy, and improved safety.
+Datasets: Not found

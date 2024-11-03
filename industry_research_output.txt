@@ -4,45 +4,57 @@
 
 * 2018: $1.98 billion
 * 2019: $1.45 billion
-* 2022: $7.4 billion
-* 2023 (estimated): $8.7 billion
+* 2021: $2.3 billion
+* 2022: $4.6 billion
+* 2023 (Q1): $1.5 billion
 
-**Operating Profit Margin:**
-
-* 2022: 24%
-
-**Net Loss:**
+**Net Income/Loss:**
 
 * 2018: -$308 million
 * 2019: -$501 million
+* 2022: -$559 million
+* 2023 (Q1): $55 million profit
 
 **Valuation:**
 
-* 2024: $180 billion
+* 2024: approximately $200 billion
 
-**Supply Chain:**
+**Funding:**
 
-* SpaceX is committed to including diverse suppliers in its sourcing process.
-* The company has a strong focus on cost reduction and supply chain management.
-* SpaceX has over 3,000 suppliers.
+* Total funding: $9.706 billion over 41 rounds
+* Latest funding round: Private Equity for $1.77M on August 27, 2024
 
-**Customer Service:**
+**Operational Expenses:**
 
-* SpaceX has a customer support team for its Starlink program.
-* Customers can contact SpaceX through phone, email, or online support tickets.
-* The company has a dedicated support center for Starlink customers.
+* 2022: $5.2 billion
+* 2023 (Q1): Not disclosed
 
 **Competitor Financial Report:**
 
-**Blue Origin**
+**Blue Origin Financial Report**
 
-* Revenue: Not publicly disclosed
-* Valuation: $200 billion (estimated)
+* Revenue: Not disclosed
+* Net Income/Loss: Not disclosed
+* Valuation: approximately $100 billion (2022)
+* Funding: Not disclosed
+* Operational Expenses: Not disclosed
 
-**Virgin Galactic**
+**United Launch Alliance (ULA) Financial Report**
 
-* Revenue: $238 million (2022)
-* Net Loss: -$110 million (2022)
-* Valuation: $1.5 billion (2022)
+* Revenue: Not disclosed
+* Net Income/Loss: Not disclosed
+* Valuation: Not disclosed
+* Funding: Not disclosed
+* Operational Expenses: Not disclosed
 
-Note: The financial data for SpaceX and its competitors is based on publicly available information and may not be up-to-date or entirely accurate.
+**Arianespace Financial Report**
+
+* Revenue: €1.3 billion (2020)
+* Net Income/Loss: €20 million (2020)
+* Valuation: Not disclosed
+* Funding: Not disclosed
+* Operational Expenses: Not disclosed
+
+Note: The financial data for Blue Origin, ULA, and Arianespace is limited due to the private nature of these companies. The data provided is based on publicly available information and may not be comprehensive.
+
+This financial report provides an overview of SpaceX's financial performance, including revenue, net income/loss, valuation, and funding. The report also includes a brief financial summary of SpaceX's competitors in the space launch industry, including Blue Origin, United Launch Alliance, and Arianespace.
